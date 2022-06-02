@@ -1,0 +1,13 @@
+@import './base.scss' ;
+
+h1{
+  color: pink;
+  @include name ;
+}
+
+a{
+  color: yellow;
+  &:hover {
+    color: $color;
+  }
+}

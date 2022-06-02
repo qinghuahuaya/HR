@@ -1,0 +1,12 @@
+h1 {
+  color: pink;
+  font-size: 80px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color: #999;
+}
